@@ -1,0 +1,8 @@
+[server]
+headless = true
+enableStaticServing = true
+port = 10000
+address = "0.0.0.0"
+
+[browser]
+gatherUsageStats = false
